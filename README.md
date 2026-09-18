@@ -120,4 +120,9 @@ $$\text{Habitable Zone Distance Formula: } d = \frac{R_\star T_\star^2}{2 T_{\te
    ```bash
    pip install taichi numpy
    
+---
+## Getting started
+To run the simulation, make sure dependencies are installed and execute:
+	```bash
+   python habitable_zone_simulation_v4.py
    
